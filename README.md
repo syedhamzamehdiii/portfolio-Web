@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! Here, you can find information about m
 
 ## About Me
 
-I am a software engineering student at the University of Lahore with a passion for web development, particularly in HTML and CSS. I enjoy creating user-friendly and visually appealing websites.
+I am a software engineering student at the University of Lahore with a passion for web development, particularly in HTML and CSS.
 
 ## Projects
 
