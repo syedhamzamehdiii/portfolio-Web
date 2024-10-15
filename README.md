@@ -31,7 +31,7 @@ I am a software engineering student at the University of Lahore with a passion f
 
 ## How to View
 1. Download the project files or clone the repository.
-2. Open `index.html` in your preferred web browser.
+2. Open `Assignment1.html` in VScode with styles and images, the website will start working.
 
 ## Contact Me
 Feel free to reach out for collaborations or inquiries:
